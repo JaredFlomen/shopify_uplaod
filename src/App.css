@@ -1,0 +1,21 @@
+.movie-app > .row {
+  overflow-x: auto;
+  flex-wrap: nowrap;
+}
+
+.movie-app {
+  padding-top: 10px;
+}
+
+.banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.column {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
